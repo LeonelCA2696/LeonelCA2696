@@ -4,7 +4,7 @@
   <h3>
     Estudiante de Ingeniería de Software, soy de República Dominicana,
     con pasión por el desarrollo web. Amo la programación y 
-    deseo aprovechar mis conocimientos en esta gran ndustria. Busco proyectos 
+    deseo aprovechar mis conocimientos en esta gran industria. Busco proyectos 
     desafiantes, equipos excepcionales y una gran empresa para crecer y 
     contribuir con mis habilidades.</h3>
 </div>
@@ -36,7 +36,7 @@
 <h2>Mas sobre mi</h2>
 
 - 👨🏽‍💻 Actualmente estoy trabajando para mejorar mis habilidades técnicas, tanto en backend como en frontend;
-- 🌱 Actualmente estoy aprendiendo Nest; 
+- 🌱 Actualmente estoy aprendiendo NestJS y DB; 
 - 👯 Estoy buscando colaborar en proyectos que saquen lo mejor de mi (EN BUSCA DE EMPLEO);
 - 💬 Me encanta hablar de cultura general;
 - ⚡️ Dato curioso: Soy Cristiano;
