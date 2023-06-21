@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
   <h1 aling="center">Hola 👋, Soy Leonel Caraballo</h1>
   <h3>
-    Soy un estudiante de Ingeniería de Software de República Dominicana
-    con pasión por el desarrollo web desde 2014. Amo la programación y 
-    deseo aprovechar mis conocimientos en la industria. Busco proyectos 
+    Estudiante de Ingeniería de Software, soy de República Dominicana,
+    con pasión por el desarrollo web. Amo la programación y 
+    deseo aprovechar mis conocimientos en esta gran ndustria. Busco proyectos 
     desafiantes, equipos excepcionales y una gran empresa para crecer y 
     contribuir con mis habilidades.</h3>
 </div>
