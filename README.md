@@ -37,7 +37,7 @@
 
 - 👨🏽‍💻 Actualmente estoy trabajando para mejorar mis habilidades técnicas, tanto en backend como en frontend;
 - 🌱 Actualmente estoy aprendiendo Nest; 
-- 👯 Estoy buscando colaborar en proyectos que saquen lo mejor de mi;
+- 👯 Estoy buscando colaborar en proyectos que saquen lo mejor de mi (EN BUSCA DE EMPLEO);
 - 💬 Me encanta hablar de cultura general;
 - ⚡️ Dato curioso: Soy Cristiano;
 
