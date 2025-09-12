@@ -1,32 +1,43 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
+# 👋 Hola, soy Leonel Caraballo  
 
-# 💫 About Me:
-¡Hola Mundo! 👋<br><br>¡Bienvenidos a mi perfil! Soy un apasionado programador full stack especializado en JavaScript, con un enfoque principal en el desarrollo web. Actualmente, estoy en el último tramo de mi carrera de Ingeniería de Software, ansioso por aplicar mis habilidades y conocimientos en proyectos desafiantes y emocionantes.<br><br>Con 28 años y procedente de la hermosa República Dominicana, he dedicado mi tiempo a perfeccionar mis habilidades técnicas y creativas en el mundo del desarrollo de software. Mi objetivo es continuar creciendo tanto profesional como personalmente, contribuyendo a proyectos innovadores que no solo me permitan aplicar lo que he aprendido, sino también seguir aprendiendo y explorando nuevas tecnologías y metodologías.<br><br>Me encanta enfrentarme a nuevos desafíos y resolver problemas complejos con soluciones elegantes y eficientes. Estoy comprometido con la excelencia técnica y la colaboración en equipo, siempre buscando oportunidades para aprender de mis colegas y compartir mis propios conocimientos y experiencias.
+💻 **Full Stack Developer** con más de **10 años de experiencia** en el mundo de la programación.  
+Me apasiona crear soluciones digitales escalables, rápidas y con un enfoque en la **experiencia de usuario** y la **arquitectura limpia**.  
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/lcaraballo26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonelca26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lcaraballo26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Leonel2696) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codigolca) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LeonelCA2696&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeonelCA2696&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelCA2696&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeonelCA2696&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LeonelCA2696&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+🌍 Actualmente desarrollo proyectos personales en turismo y busco oportunidades para seguir aportando valor en la industria tech.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=LeonelCA2696&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack  
+- **Lenguajes & Frameworks**: JavaScript (NestJS, NextJS, Node, React)  
+- **Bases de Datos**: PostgreSQL, MongoDB, MySQL, SQLite  
+- **ORM & ODM**: TypeORM, Prisma, Mongoose  
+- **Autenticación & Seguridad**: Clerk, NextAuth, JWT  
+- **Infraestructura & Deploy**: Railway, Vercel, S3, Microservicios, NAS  
+- **Pagos & APIs**: Stripe, PayPal, Google APIs, DeepL  
+- **Otros**: SEO orgánico, Internacionalización (i18n)  
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=LeonelCA2696&show_icons=true&theme=tokyonight&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=LeonelCA2696&theme=tokyonight&hide_border=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonelCA2696&layout=compact&theme=tokyonight&hide_border=true)  
+
+</div>
+
+---
+
+## 🌐 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcaraballo26)  
+[![X](https://img.shields.io/badge/Twitter-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/Leonel2696)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@codigolca)  
+
+---
+
+> ✨ *“La tecnología es un medio, el impacto que generamos con ella es lo que realmente importa.”*  
+
+---
+
+🔗 Contador de visitas: ![](https://visitcount.itsvg.in/api?id=LeonelCA2696&icon=0&color=0)
