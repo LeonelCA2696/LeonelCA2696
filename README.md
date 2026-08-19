@@ -179,22 +179,26 @@ Aplicaciones containerizadas y despliegues preparados para entornos modernos de 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/leonelca2696/leonelca2696/main/profile/stats.svg"
+src="./profile/stats.svg"
 width="49%"
 alt="Leonel GitHub Stats"
 />
 
 <img
-src="https://raw.githubusercontent.com/leonelca2696/leonelca2696/main/profile/top-langs.svg"
+src="./profile/top-langs.svg"
 width="49%"
 alt="Leonel Top Languages"
 />
 
+<br/><br/>
+
+<img
+src="./profile/streak.svg"
+width="70%"
+alt="Leonel GitHub Streak"
+/>
+
 </div>
-
-<br/>
-
-<div align="center">
 
 ## 🔥 GitHub Streak
 
