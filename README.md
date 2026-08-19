@@ -174,24 +174,34 @@ Aplicaciones containerizadas y despliegues preparados para entornos modernos de 
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=leonelca2696&theme=github-dark-blue&hide_border=true&locale=es&timezone=UTC-4&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
-  />
-</a>
+<img
+src="https://raw.githubusercontent.com/leonelca2696/leonelca2696/main/profile/stats.svg"
+width="49%"
+alt="Leonel GitHub Stats"
+/>
+
+<img
+src="https://raw.githubusercontent.com/leonelca2696/leonelca2696/main/profile/top-langs.svg"
+width="49%"
+alt="Leonel Top Languages"
+/>
 
 </div>
+
+<br/>
+
+<div align="center">
 
 ## 🔥 GitHub Streak
 
 <a href="https://git.io/streak-stats">
   <img
     src="https://streak-stats.demolab.com?user=leonelca2696&theme=github-dark-blue&hide_border=true&locale=es&timezone=UTC-4&date_format=j%20M%5B%20Y%5D"
+    width="70%"
     alt="GitHub Streak"
   />
 </a>
@@ -239,7 +249,7 @@ Architecture
 ![DX](https://img.shields.io/badge/Developer_Experience-Obsessed-00ADD8?style=flat-square)
 ![Build](https://img.shields.io/badge/Always-Building-success?style=flat-square)
 
-<br/>
+<br/><br/>
 
 ### `</> Keep building.`
 
