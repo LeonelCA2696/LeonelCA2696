@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Leonel
+# 👋 Hola, soy Leonel Caraballo
 
 ### Full Stack Software Engineer
 
@@ -171,48 +171,6 @@ Aplicaciones containerizadas y despliegues preparados para entornos modernos de 
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-src="./profile/stats.svg"
-width="49%"
-alt="Leonel GitHub Stats"
-/>
-
-<img
-src="./profile/top-langs.svg"
-width="49%"
-alt="Leonel Top Languages"
-/>
-
-<br/><br/>
-
-<img
-src="./profile/streak.svg"
-width="70%"
-alt="Leonel GitHub Streak"
-/>
-
-</div>
-
-## 🔥 GitHub Streak
-
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=leonelca2696&theme=github-dark-blue&hide_border=true&locale=es&timezone=UTC-4&date_format=j%20M%5B%20Y%5D"
-    width="70%"
-    alt="GitHub Streak"
-  />
-</a>
-
-</div>
-
----
 
 # 🧩 Engineering Mindset
 
